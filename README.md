@@ -1,4 +1,2 @@
-This contribution is no longer maintained, this formalization is now part of the GeoCoq library.
-
-https://github.com/GeoCoq/GeoCoq
+This formalization is now maintained as part of the GeoCoq library: https://github.com/GeoCoq/GeoCoq
 
